@@ -3,6 +3,8 @@
 list of events: 
 https://developer.adobe.com/commerce/php/development/components/events-and-observers/event-list/#checkout_cart_save_before
 
+next learn abour preferences and try to change all images on website
+
 Here's the complete file structure for the Mageplaza_HelloWorld module, including all necessary files:
 
 ```
