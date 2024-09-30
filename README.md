@@ -1,5 +1,8 @@
 # Complete Magento 2 HelloWorld Module with Events & Observers
 
+list of events: 
+https://developer.adobe.com/commerce/php/development/components/events-and-observers/event-list/#checkout_cart_save_before
+
 Here's the complete file structure for the Mageplaza_HelloWorld module, including all necessary files:
 
 ```
